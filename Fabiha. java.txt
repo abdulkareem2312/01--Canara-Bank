@@ -2,4 +2,6 @@ userr class {
 int a=5,
 int b=10:
 int d=20;
+user employee = "abdul rahman";
+}
 }
