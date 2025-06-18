@@ -1,5 +1,5 @@
 userr class {
 int a=5,
 int b=10:
-user employee = "abdul rahman";
+int d=20;
 }
